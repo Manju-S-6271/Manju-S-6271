@@ -1,6 +1,7 @@
 ### Hi, I'm Manju-S-6271!
 #### 🔭 I’m currently working on
-- KJHS-PC HP Project: https://kojimachi-jhs.github.io/KJHS-PC-HP/
+- KJHS-PC HP Project
+- Untitled
 
 #### 🌱 I’m currently learning
 - All subjects in school
