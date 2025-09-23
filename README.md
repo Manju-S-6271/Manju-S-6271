@@ -11,7 +11,7 @@
 
 #### 👯 I’m coding with...
 - now Alone.
-- From Q1 2023 to Q2 2025, the KJHS-PC developers (Thank you all, the KJHS-PC developers for coding with me from 2023 to 2025.)
+- From Q1 2023 to Q2 2025, the KJHS-PC developers (Thank you all, the KJHS-PC developers for coding with me.)
 
 #### 🤔 I’m looking for help with...
 - CSS
