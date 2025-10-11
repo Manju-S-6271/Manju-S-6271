@@ -21,7 +21,7 @@
 - About all my projects.
 
 #### 📫 How to reach me...
-- Email Address: Manju-S-6270@outlook.jp
+- Email Address: JingaiAtari-San@outlook.jp
 - Discord: akane_kotonoha
 
 #### 😄 Please say me: Jingai San!
